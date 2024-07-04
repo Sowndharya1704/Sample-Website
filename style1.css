@@ -1,8 +1,10 @@
 .h{
     padding: 0rem;
-    left:7rem;
+    left:15rem;
+    position:absolute;
+    top: 0rem;
+    
 }
-
 p{
     padding: 0rem;
     position: absolute;
